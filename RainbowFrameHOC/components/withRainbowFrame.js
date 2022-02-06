@@ -32,5 +32,4 @@ let withRainbowFrame = colors => Component => props => {
   return myJSX;
 };
 
-
 export { withRainbowFrame };
